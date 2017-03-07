@@ -40,7 +40,7 @@ I tested five models, starting from the most basic Logistic Regression model to 
 Please come to my capstone presentation and see for yourself!
 
 ## Future Plans 
-
+Though I have done a lot for this project, I feel like I am nowhere near done. The possibilities are endless in trying to make this better. However, in the immediate future, my model will be deployed and used in production.
 
 ## Appendix 
 
