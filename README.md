@@ -26,13 +26,21 @@ The tweets came from a Twitter API, which was stored in Apposphere's MySQL datab
 
 There are numerous ways to include text into your model, and I took full advantage of that. I used simple bag of words (CBOW) matrices, term frequency-inverse document frequency (Tf-IDF) matrices, and doc2vecs.
 
+<p align="center">
+ <img src="images/feature_engineering/feature_engineering.001.jpeg>
+</p>
+
+
 ## Models
 
 I tested five models, starting from the most basic Logistic Regression model to the most complicated Fasttext model. For each model, I used the different features to make sure that I chose the best one.
 
 ## Results
 
-Please come to my capstone presentation!
+Please come to my capstone presentation and see for yourself!
+
+## Future Plans 
+
 
 ## Appendix 
 
