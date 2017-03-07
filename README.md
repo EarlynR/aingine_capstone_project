@@ -28,5 +28,8 @@ I tested five models, starting from the most basic Logistic Regression model to 
 
 Please come to my capstone presentation!
 
+## Appendix 
 
+### Dependencies
+![](images/dependencies.001.jpeg)
 
