@@ -1,9 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "# Classifying Twitter\n",
     "\n",
     "Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there is an endless amount of opportunities to learn from it. Apposphere has done exactly that!\n",
@@ -32,38 +27,4 @@
     "\n",
     "## Results \n",
     "Please come to my capstone presentation!\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "collapsed": true
-   },
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "anaconda-cloud": {},
-  "kernelspec": {
-   "display_name": "Python [conda root]",
-   "language": "python",
-   "name": "conda-root-py"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 2
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython2",
-   "version": "2.7.12"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 1
-}
+
