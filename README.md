@@ -31,4 +31,4 @@ Please come to my capstone presentation!
 ## Appendix 
 
 ### Dependencies
-![](images/dependencies.001.jpeg)
+![](images/dependencies.jpg)
