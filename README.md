@@ -16,6 +16,12 @@ My capstone projects aims to classify tweets into leads. Each tweet will be scor
 
 The tweets came from a Twitter API, which was stored in Apposphere's MySQL database. At the start of the project, it had over 2.8 million tweets. For my project, I used a random sample of 150,000.
 
+<p align="center">
+    <a href="https://plot.ly/~EarlynR/44/?share_key=VQ8HBNmkVLBBYrxYE6fxdd" target="_blank" title="plot from API (15)" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/44.png?share_key=VQ8HBNmkVLBBYrxYE6fxdd" alt="plot from API (15)" style="max-width: 100%; width: 600px;" width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="EarlynR:44" sharekey-plotly="VQ8HBNmkVLBBYrxYE6fxdd" src="https://plot.ly/embed.js" async></script>
+</p>
+
+
 ## Feature Engineering
 
 There are numerous ways to include text into your model, and I took full advantage of that. I used simple bag of words (CBOW) matrices, term frequency-inverse document frequency (Tf-IDF) matrices, and doc2vecs.
