@@ -11,7 +11,7 @@ Apposphere is a start-up based here in Austin that focuses on extracting busines
 The success rate is astounding at over 70%. This makes Aingine, their classification system, much more desirable than pay-per-click (PCP) ads, which are elusive, expensive, and often unsuccessful.
 
 <p align="center">
- <img src="images/apposphere.png">
+ <img src="images/apposphere.png" width="400" height="400" >
 </p>
 
 
