@@ -1,12 +1,14 @@
 # Classifying Twitter
 
 ## Motivation 
-Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there is an endless amount of opportunities to learn from it. Apposphere has done exactly that!
+
+Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there are over 500 million tweets per day! This is not a bad thing. In fact, it is great. The vast abundance of tweets provides people with the perfect environment to form relationships, and taking full advantage of this can make any business successful. This was the vision that created Apposphere.   
 
 ## Apposphere
+
 Apposphere is a start-up based here in Austin that focuses on extracting business leads from Twitter and delivering them to their clients. Once these leads are delivered, businesses have the option to strike up conversations in however way they please.
 
-The success rate is astounding at over 70%. This makes Aingine, their AI system, much more desirable than PCP ads, which can be elusive and expensive.
+The success rate is astounding at over 70%. This makes Aingine, their AI system, much more desirable than PCP ads, which can be elusive, expensive, and often unsuccessful.
 
 ## Motivation 
 
