@@ -2,27 +2,26 @@
 
 ## Motivation 
 
-Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there are over 500 million tweets per day! This is not a bad thing. In fact, it is great. The vast abundance of tweets provides people with the perfect environment to form relationships, and taking full advantage of this can make any business successful. This was the vision that created Apposphere.   
+Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there are over 500 million tweets per day! This is not a bad thing. In fact, it is the opposite. The vast abundance of tweets provides people with the perfect environment to form relationships and taking full advantage of this can make any business successful. This was the vision that created Apposphere.   
 
 ## Apposphere
 
-Apposphere is a start-up based here in Austin that focuses on extracting business leads from Twitter and delivering them to their clients. Once these leads are delivered, businesses have the option to strike up conversations in however way they please.
+Apposphere is a start-up based here in Austin that focuses on extracting business leads from Twitter and delivering them to clients. Once these leads are delivered, businesses can strike up conversations in however way they please through Apposphere's custom CRM program.
 
-The success rate is astounding at over 70%. This makes Aingine, their AI system, much more desirable than PCP ads, which can be elusive, expensive, and often unsuccessful.
+The success rate is astounding at over 70%. This makes Aingine, their classification system, much more desirable than pay-per-click (PCP) ads, which are elusive, expensive, and often unsuccessful.
 
 ## Motivation 
 
-My capstone projects aims to classify tweets into leads. Each tweet will be scored from cold to hot on a scale of 0-4.
+My capstone project aims to improve Apposphere's current algorithm on classifying tweets based on the quality of leads.   
 
 ## Data
 
-The tweets came from a Twitter API, which was stored in Apposphere's MySQL database. At the start of the project, it had over 2.8 million tweets. For my project, I used a random sample of 150,000.
+The tweets came from a Twitter API, which was stored in Apposphere's MySQL database. Out of a population of 2.8 million tweets, I used a random sample of 150,000. 
 
 <p align="center">
     <a href="https://plot.ly/~EarlynR/44/?share_key=VQ8HBNmkVLBBYrxYE6fxdd" target="_blank" title="plot from API (15)" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/44.png?share_key=VQ8HBNmkVLBBYrxYE6fxdd" alt="plot from API (15)" style="max-width: 100%; width: 600px;" width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="EarlynR:44" sharekey-plotly="VQ8HBNmkVLBBYrxYE6fxdd" src="https://plot.ly/embed.js" async></script>
 </p>
-
 
 ## Feature Engineering
 
