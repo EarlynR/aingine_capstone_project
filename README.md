@@ -56,6 +56,6 @@ Though I have done a lot for this project, I feel like I am nowhere near done. T
 
 ### Dependencies
 <p align="center">
- <img src="images/dependencies.jpg">
+ <img src="images/dependencies.jpeg">
 </p>
 
