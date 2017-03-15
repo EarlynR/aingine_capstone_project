@@ -52,7 +52,7 @@ I tested five models, starting from the most basic Logistic Regression model to 
 </p>
 
 ## Future Plans 
-Given the feature engineering I did to make my models learn best from the data, there are still many more things I can do to improve my scores. However, in the immediate future, my model will be deployed and used in production.
+Given the feature engineering I did to make my models learn best from the data, there are still many more things I can do to improve my scores. However, in the immediate future my model will be deployed and used in production.
 
 ## Appendix 
 
