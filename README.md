@@ -19,7 +19,9 @@ The success rate is astounding at over 70%. This makes leads Aingine, their clas
 
 My capstone project aims to outperform Apposphere's current algorithm on classifying tweets based on the quality of leads. 
 
-
+<p align="center">
+ <img src="images/feature_engineering/objective.jpeg">
+</p>
 
 ## Data
 
