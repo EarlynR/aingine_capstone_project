@@ -47,10 +47,12 @@ I tested five models, starting from the most basic Logistic Regression model to 
 
 ## Results
 
-Please come to my capstone presentation and see for yourself!
+<p align="center">
+    <a href="https://plot.ly/~EarlynR/36/?share_key=XTMHgZdbnkjryHUOOVKraz" target="_blank" title="style-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/36.png?share_key=XTMHgZdbnkjryHUOOVKraz" alt="style-bar" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+</p>
 
 ## Future Plans 
-Though I have done a lot for this project, I feel like I am nowhere near done. The possibilities are endless in trying to make this better. However, in the immediate future, my model will be deployed and used in production.
+Given the feature engineering I did to make my models learn best from the data, there are still many more things I can do to improve my scores. However, in the immediate future, my model will be deployed and used in production.
 
 ## Appendix 
 
