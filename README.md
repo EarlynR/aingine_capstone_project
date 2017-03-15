@@ -25,7 +25,7 @@ The tweets came from a Twitter API, which was stored in Apposphere's MySQL datab
 
 <p align="center">
     <a href="https://plot.ly/~EarlynR/44/?share_key=VQ8HBNmkVLBBYrxYE6fxdd" target="_blank" title="plot from API (15)" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/44.png?share_key=VQ8HBNmkVLBBYrxYE6fxdd" alt="plot from API (15)" style="max-width: 100%; width: 600px;" width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="EarlynR:44" sharekey-plotly="VQ8HBNmkVLBBYrxYE6fxdd" src="https://plot.ly/embed.js" async></script>
+ 
 </p>
 
 ## Feature Engineering
