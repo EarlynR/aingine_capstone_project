@@ -2,13 +2,13 @@
 
 ## Motivation 
 
-Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there are over 500 million tweets per day! This is not a bad thing. In fact, it is the opposite. The vast abundance of tweets provides people with the perfect environment to form relationships and taking full advantage of this can make any business successful. This was the vision that created Apposphere.   
+Twitter is a rich ecosystem. Even with the constraint of 14 characters allotted per tweet, people have no problem expressing emotions, opinions, and facts. So it comes as no surprise that there are over 500 million tweets per day! This is not a bad thing. In fact, it is the opposite. The vast abundance of tweets provides people with the perfect environment to form relationships and taking full advantage of this can make any business successful. This was the vision that created Aingines.world.   
 
 ## Apposphere
 
-Apposphere is a start-up based here in Austin that focuses on extracting business leads from Twitter and delivering them to clients. Once these leads are delivered, businesses can strike up conversations in however way they please through Apposphere's custom CRM program.
+Aingines.world is a start-up based here in Austin that focuses on extracting business leads from Twitter,Facebook, and other social media outlets and delivering them to clients. Once these leads are delivered, businesses can strike up conversations in however way they please through Aingine.world's custom CRM program.
 
-The success rate is astounding at over 70%. This makes Aingine, their classification system, much more desirable than pay-per-click (PCP) ads, which are elusive, expensive, and often unsuccessful.
+The success rate is astounding at over 70%. This makes leads Aingine, their classification system, much more desirable than pay-per-click (PCP) ads, which are elusive, expensive, and often unsuccessful.
 
 <p align="center">
  <img src="images/apposphere.png" width="400" height="400" >
@@ -17,7 +17,7 @@ The success rate is astounding at over 70%. This makes Aingine, their classifica
 
 ## Motivation 
 
-My capstone project aims to improve Apposphere's current algorithm on classifying tweets based on the quality of leads.   
+My capstone project aims to outperform Apposphere's current algorithm on classifying tweets based on the quality of leads.   
 
 ## Data
 
