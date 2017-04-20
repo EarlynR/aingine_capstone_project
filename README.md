@@ -53,6 +53,17 @@ I tested five models, starting from the most basic Logistic Regression model to 
     <a href="https://plot.ly/~EarlynR/36/?share_key=XTMHgZdbnkjryHUOOVKraz" target="_blank" title="style-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/36.png?share_key=XTMHgZdbnkjryHUOOVKraz" alt="style-bar" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </p>
 
+## Interesting Revelations 
+
+As you have seen above, I have worked with three different types of features, each more complicated than the one before. At first glance, you would expect that the doc2vec arrays would be the most robust. Instead, I saw a drastic decrease in accuracy. Below is a t-SNE representation of the doc2vec arrays. It appears as one big clump with no discernible patterns. I believe this is because the doc2vec arrays capture another characteristic, different than the one I would like to test. 
+
+
+<p align="center">
+    <a href="https://plot.ly/~EarlynR/34/?share_key=FyoTnfk6NjQ13tEm8vxnux" target="_blank" title="t-SNE Representation of Doc2Vec Arrays" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/34.png?share_key=FyoTnfk6NjQ13tEm8vxnux" alt="t-SNE Representation of Doc2Vec Arrays" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+ 
+</p>
+
+
 ## Future Plans 
 Given the feature engineering I did to make my models learn best from the data, there are still many more things I can do to improve my scores. However, in the immediate future my model will be deployed and used in production.
 
