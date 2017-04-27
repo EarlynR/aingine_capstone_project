@@ -54,7 +54,7 @@ I tested five models, starting from the most basic Logistic Regression model to 
 </p>
 
 <p align="center">
- <img src="images/feature_engineering/Fasttext\ Confusion\ Matrix.png">
+ <img src="images/Fasttext Confusion Matrix.png">
 </p>
 
 ## Interesting Revelations 
