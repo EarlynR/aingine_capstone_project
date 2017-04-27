@@ -53,6 +53,10 @@ I tested five models, starting from the most basic Logistic Regression model to 
     <a href="https://plot.ly/~EarlynR/36/?share_key=XTMHgZdbnkjryHUOOVKraz" target="_blank" title="style-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/36.png?share_key=XTMHgZdbnkjryHUOOVKraz" alt="style-bar" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </p>
 
+<p align="center">
+ <img src="images/feature_engineering/Fasttext\ Confusion\ Matrix.png">
+</p>
+
 ## Interesting Revelations 
 
 As you have seen above, I have worked with three different types of features, each more complicated than the one before. At first glance, you would expect that the doc2vec arrays would be the most robust. Instead, I saw a drastic decrease in accuracy. Below is a t-SNE representation of the doc2vec arrays. It appears as one big clump with no discernible patterns. I believe this is because the doc2vec arrays capture another characteristic, different than the one I would like to test. 
